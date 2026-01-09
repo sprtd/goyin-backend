@@ -1,0 +1,11 @@
+node_modules/
+.next/
+dist/
+build/
+.react-router/
+worker-configuration.d.ts
+*.min.js
+.env
+.env.local
+.env.*.local
+*.md

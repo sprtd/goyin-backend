@@ -1,0 +1,91 @@
+{{> header title="Verify Email" }}
+
+<!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#FFFFFF" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;margin:0px auto;max-width:600px;">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"
+        style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+        <tbody>
+            <tr>
+                <td style="direction:ltr;font-size:0px;padding:20px;text-align:center;">
+                    <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:560px;" ><![endif]-->
+                    <div class="mj-column-per-100 mj-outlook-group-fix"
+                        style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                            style="vertical-align:top;" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td align="left" style="word-break:break-word;">
+                                        <div
+                                            style="padding:0px 0 10px 0;font-family:Montserrat, Helvetica, Arial, sans-serif;font-size:20px;font-weight:300;line-height:24px;color:#000000;">
+                                            Hello {{first_name}},
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="left" style="word-break:break-word;">
+                                        <div
+                                            style="font-family:Montserrat, Helvetica, Arial, sans-serif;font-size:16px;font-weight:300;line-height:24px;text-align:left;color:#282828;">
+                                            Almost there! Use this one-time password (OTP) within the next 5 minutes to
+                                            confirm your email and complete your verification process:
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="left" style="padding:30px 0 20px 0;word-break:break-word;">
+                                        <table align="left" cellpadding="0" cellspacing="0" role="presentation"
+                                            style="margin:0 auto;">
+                                            <tr>
+                                                {{#each (splitToken token) }}
+                                                <td style="padding:0 6px;">
+                                                    <div
+                                                        style="width:44px;height:44px;display:inline-block;background:#F5F5F5;border:2px solid #0ab566;border-radius:8px;text-align:center;line-height:44px;font-size:28px;font-family:Montserrat, Helvetica, Arial, sans-serif;font-weight:600;color:#0ab566;">
+                                                        {{this}}
+                                                    </div>
+                                                </td>
+                                                {{/each}}
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!--[if mso | IE]></td></tr></table><![endif]-->
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="margin:0px auto;max-width:600px;">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+            <tr>
+                <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+                    <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+                    <div class="mj-column-per-100 mj-outlook-group-fix"
+                        style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                            style="vertical-align:top;" width="100%">
+                            <tbody>
+
+                                <tr>
+                                    <td align="left"
+                                        style="font-size:0px;padding:30px 40px 0 40px;word-break:break-word;">
+                                        <div
+                                            style="font-family:Montserrat, Helvetica, Arial, sans-serif;font-size:14px;font-weight:300;line-height:24px;color:#282828;">
+                                        You do not recognise this mail, kindly ignore.
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!--[if mso | IE]></td></tr></table><![endif]-->
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+{{> footer }}
