@@ -1,0 +1,6 @@
+{"level":30,"time":1768308364659,"pid":61179,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768308364660,"pid":61179,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768308364661,"pid":61179,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768308380654,"pid":61229,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768308380655,"pid":61229,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768308380656,"pid":61229,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}

@@ -1,0 +1,51 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1768308294876,
+            "name": "./tmp/chat/test-2026-01-13.log.0",
+            "hash": "53f5e3cbe6485607a8cff836584bff6a"
+        },
+        {
+            "date": 1768308317248,
+            "name": "./tmp/chat/test-2026-01-13.log.2026",
+            "hash": "0fd8561d2c1895c3811d72dc59da31dc"
+        },
+        {
+            "date": 1768369296266,
+            "name": "./tmp/chat/test-2026-01-14.log.0",
+            "hash": "8e953c0fd4b287c4d6c6defd2d3b185b"
+        },
+        {
+            "date": 1768369394613,
+            "name": "./tmp/chat/test-2026-01-14.log.2026",
+            "hash": "26e9161b937257ed3840ecc2f1553672"
+        },
+        {
+            "date": 1768427613049,
+            "name": "./tmp/test-2026-01-14.log.2026",
+            "hash": "5b626699e5a9030213b3289c2e016555"
+        },
+        {
+            "date": 1768475124705,
+            "name": "./tmp/test-2026-01-15.log.0",
+            "hash": "284c3191b29bcfd8bfff770f75bfc82d"
+        },
+        {
+            "date": 1768475222554,
+            "name": "./tmp/test-2026-01-15.log.2026",
+            "hash": "099f3f8963b701cffeefe2345167d987"
+        },
+        {
+            "date": 1768564333769,
+            "name": "./tmp/test-2026-01-16.log.0",
+            "hash": "3eea1d4c0de35ba494c6ac55a05f4cbf"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+{"level":30,"time":1768369296584,"pid":90873,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768369296587,"pid":90873,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768369296589,"pid":90873,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}

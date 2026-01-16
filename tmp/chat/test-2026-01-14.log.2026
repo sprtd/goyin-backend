@@ -1,0 +1,381 @@
+{"level":30,"time":1768369394724,"pid":91081,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768369394726,"pid":91081,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768369394727,"pid":91081,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768369543313,"pid":91395,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768369543314,"pid":91395,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768369543316,"pid":91395,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768371352167,"pid":95370,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768371352169,"pid":95370,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768371352170,"pid":95370,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768371417551,"pid":95423,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768371417553,"pid":95423,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768371417554,"pid":95423,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768371445611,"pid":95474,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768371445612,"pid":95474,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768371445613,"pid":95474,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768372196581,"pid":96833,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768372196582,"pid":96833,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768372196583,"pid":96833,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768372238546,"pid":96893,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768372238548,"pid":96893,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768372238549,"pid":96893,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768372295739,"pid":97034,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768372295741,"pid":97034,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768372295742,"pid":97034,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768373478679,"pid":98398,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768373478681,"pid":98398,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768373478682,"pid":98398,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768373749338,"pid":99857,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768373749341,"pid":99857,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768373749344,"pid":99857,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768375667416,"pid":2869,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768375667418,"pid":2869,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768375667419,"pid":2869,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768376705095,"pid":4080,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768376705097,"pid":4080,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768376705098,"pid":4080,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768377442860,"pid":4668,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768377442861,"pid":4668,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768377442863,"pid":4668,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768377495686,"pid":4739,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768377495687,"pid":4739,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768377495689,"pid":4739,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768377499104,"pid":4770,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768377499106,"pid":4770,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768377499107,"pid":4770,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768407521645,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768407521646,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768407521646,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768407521647,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768407521647,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768407521648,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768407521648,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768407521648,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768407521648,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768407521649,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768407521649,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768407521649,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768407521649,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768407521650,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768407521651,"pid":47170,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768407540730,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768407540732,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768407540732,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768407540733,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768407540733,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768407540733,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768407540733,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768407540734,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768407540734,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768407540734,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768407540734,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768407540735,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768407540737,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768407540737,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768407540738,"pid":47293,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768407572984,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768407572986,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768407572986,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768407572986,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768407572986,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768407572987,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768407572987,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768407572987,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768407572987,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768407572988,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768407572988,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768407572988,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768407572989,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768407572989,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768407572992,"pid":47343,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768407677660,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768407677662,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768407677662,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768407677662,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768407677662,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768407677663,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768407677663,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768407677664,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768407677664,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768407677664,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768407677664,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768407677665,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768407677665,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768407677665,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768407677667,"pid":47572,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768407705518,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768407705520,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768407705520,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768407705520,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768407705520,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768407705521,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768407705521,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768407705521,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768407705521,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768407705522,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768407705522,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768407705522,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768407705523,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768407705523,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768407705527,"pid":47608,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768408085602,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768408085604,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768408085604,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768408085604,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768408085604,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768408085605,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768408085605,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768408085605,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768408085605,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768408085605,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768408085606,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768408085606,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768408085606,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768408085606,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768408085609,"pid":48092,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768423425772,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768423425773,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768423425773,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768423425773,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768423425774,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768423425774,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768423425774,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768423425774,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768423425774,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768423425775,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768423425775,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768423425776,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768423425776,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768423425776,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768423425782,"pid":52484,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768423860507,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768423860509,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768423860509,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768423860510,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768423860510,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768423860510,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768423860510,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768423860511,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768423860511,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768423860511,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768423860511,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768423860512,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768423860512,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768423860512,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768423860513,"pid":53059,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424107584,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424107586,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424107586,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424107586,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424107587,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424107587,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424107587,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424107588,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424107588,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424107589,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424107589,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424107589,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424107590,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424107590,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424107593,"pid":53318,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424113605,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424113606,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424113606,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424113606,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424113607,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424113607,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424113607,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424113607,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424113608,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424113608,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424113608,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424113609,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424113609,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424113609,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424113613,"pid":53352,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424119227,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424119228,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424119228,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424119229,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424119229,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424119229,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424119229,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424119230,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424119230,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424119230,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424119230,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424119230,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424119231,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424119231,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424119232,"pid":53369,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424126760,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424126761,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424126761,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424126762,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424126762,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424126762,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424126762,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424126763,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424126763,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424126763,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424126763,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424126764,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424126764,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424126764,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424126765,"pid":53396,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424130865,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424130866,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424130866,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424130867,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424130867,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, GET} (version: 1) route"}
+{"level":30,"time":1768424130867,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424130867,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424130867,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424130868,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424130868,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424130868,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424130868,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424130869,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424130869,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424130869,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424130871,"pid":53415,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424185098,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424185101,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424185102,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424185102,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424185102,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, GET} (version: 1) route"}
+{"level":30,"time":1768424185103,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424185103,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424185103,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424185103,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424185104,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424185104,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424185104,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424185104,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424185104,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424185105,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424185108,"pid":53482,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424287693,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424287694,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424287694,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424287695,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424287695,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, GET} (version: 1) route"}
+{"level":30,"time":1768424287695,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424287696,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424287696,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424287696,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424287697,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424287697,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424287697,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424287698,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424287698,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424287698,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424287702,"pid":53564,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768424726928,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768424726930,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768424726930,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768424726930,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768424726930,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv, GET} (version: 1) route"}
+{"level":30,"time":1768424726930,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768424726931,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768424726931,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768424726931,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768424726932,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768424726932,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768424726932,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768424726932,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768424726934,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768424726934,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768424726936,"pid":54219,"hostname":"Praises-MacBook-Pro.local","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768427222840,"pid":56607,"hostname":"Mac","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768427222857,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768427222858,"pid":56607,"hostname":"Mac","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768427222865,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768427222866,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/users, POST} (version: 1) route"}
+{"level":30,"time":1768427222867,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/drivers, POST} (version: 1) route"}
+{"level":30,"time":1768427222867,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv, GET} (version: 1) route"}
+{"level":30,"time":1768427222871,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/users, GET} (version: 1) route"}
+{"level":30,"time":1768427222872,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/drivers, GET} (version: 1) route"}
+{"level":30,"time":1768427222872,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768427222875,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768427222875,"pid":56607,"hostname":"Mac","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768427222875,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768427222876,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768427222878,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768427222878,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768427222878,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768427222878,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768427222878,"pid":56607,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768427222903,"pid":56607,"hostname":"Mac","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768427280050,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"🚀 Starting nightly CSV sync..."}
+{"level":30,"time":1768427280056,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing users surveys..."}
+{"level":30,"time":1768427281367,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 users CSV files"}
+{"level":30,"time":1768427281367,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"users sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427281367,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing drivers surveys..."}
+{"level":30,"time":1768427281688,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 drivers CSV files"}
+{"level":30,"time":1768427281688,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"drivers sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427281688,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"✅ Nightly sync complete. Total inserted: 0, Total duplicates: 0"}
+{"level":30,"time":1768427340023,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"🚀 Starting nightly CSV sync..."}
+{"level":30,"time":1768427340024,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing users surveys..."}
+{"level":30,"time":1768427340318,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 users CSV files"}
+{"level":30,"time":1768427340318,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"users sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427340318,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing drivers surveys..."}
+{"level":30,"time":1768427340684,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 drivers CSV files"}
+{"level":30,"time":1768427340684,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"drivers sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427340684,"pid":56607,"hostname":"Mac","context":"SurveySyncService","msg":"✅ Nightly sync complete. Total inserted: 0, Total duplicates: 0"}
+{"level":30,"time":1768427345185,"pid":56830,"hostname":"Mac","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768427345187,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768427345187,"pid":56830,"hostname":"Mac","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768427345188,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768427345188,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/users, POST} (version: 1) route"}
+{"level":30,"time":1768427345188,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/drivers, POST} (version: 1) route"}
+{"level":30,"time":1768427345189,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv, GET} (version: 1) route"}
+{"level":30,"time":1768427345189,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/users, GET} (version: 1) route"}
+{"level":30,"time":1768427345189,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/drivers, GET} (version: 1) route"}
+{"level":30,"time":1768427345189,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768427345190,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768427345190,"pid":56830,"hostname":"Mac","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768427345190,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768427345190,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768427345190,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768427345190,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768427345190,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768427345191,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768427345191,"pid":56830,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768427345202,"pid":56830,"hostname":"Mac","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768427376524,"pid":56881,"hostname":"Mac","context":"RoutesResolver","msg":"AppController {/} (version: 1):"}
+{"level":30,"time":1768427376526,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/, GET} (version: 1) route"}
+{"level":30,"time":1768427376526,"pid":56881,"hostname":"Mac","context":"RoutesResolver","msg":"UploadCsvController {/upload-csv} (version: 1):"}
+{"level":30,"time":1768427376526,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv, POST} (version: 1) route"}
+{"level":30,"time":1768427376527,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/users, POST} (version: 1) route"}
+{"level":30,"time":1768427376527,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/drivers, POST} (version: 1) route"}
+{"level":30,"time":1768427376527,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv, GET} (version: 1) route"}
+{"level":30,"time":1768427376527,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/users, GET} (version: 1) route"}
+{"level":30,"time":1768427376527,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/drivers, GET} (version: 1) route"}
+{"level":30,"time":1768427376528,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key, GET} (version: 1) route"}
+{"level":30,"time":1768427376528,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/upload-csv/:key/rows/:index, GET} (version: 1) route"}
+{"level":30,"time":1768427376528,"pid":56881,"hostname":"Mac","context":"RoutesResolver","msg":"FilesController {/files} (version: 1):"}
+{"level":30,"time":1768427376529,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files, POST} (version: 1) route"}
+{"level":30,"time":1768427376529,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/create-bucket, POST} (version: 1) route"}
+{"level":30,"time":1768427376529,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/upload, POST} (version: 1) route"}
+{"level":30,"time":1768427376529,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files, GET} (version: 1) route"}
+{"level":30,"time":1768427376529,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, GET} (version: 1) route"}
+{"level":30,"time":1768427376529,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, PATCH} (version: 1) route"}
+{"level":30,"time":1768427376529,"pid":56881,"hostname":"Mac","context":"RouterExplorer","msg":"Mapped {/files/:id, DELETE} (version: 1) route"}
+{"level":30,"time":1768427376539,"pid":56881,"hostname":"Mac","context":"NestApplication","msg":"Nest application successfully started"}
+{"level":30,"time":1768427400023,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"🚀 Starting nightly CSV sync..."}
+{"level":30,"time":1768427400028,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing users surveys..."}
+{"level":30,"time":1768427401011,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 users CSV files"}
+{"level":30,"time":1768427401011,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"users sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427401011,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing drivers surveys..."}
+{"level":30,"time":1768427401281,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 drivers CSV files"}
+{"level":30,"time":1768427401281,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"drivers sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427401281,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"✅ Nightly sync complete. Total inserted: 0, Total duplicates: 0"}
+{"level":30,"time":1768427460033,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"🚀 Starting nightly CSV sync..."}
+{"level":30,"time":1768427460039,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing users surveys..."}
+{"level":30,"time":1768427460304,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 users CSV files"}
+{"level":30,"time":1768427460304,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"users sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427460304,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"🔄 Processing drivers surveys..."}
+{"level":30,"time":1768427460540,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"Found 0 drivers CSV files"}
+{"level":30,"time":1768427460540,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"drivers sync: 0 inserted, 0 duplicates"}
+{"level":30,"time":1768427460540,"pid":56881,"hostname":"Mac","context":"SurveySyncService","msg":"✅ Nightly sync complete. Total inserted: 0, Total duplicates: 0"}

@@ -1,25 +1,27 @@
-import { drizzle, NodePgDatabase } from 'drizzle-orm/node-postgres';
-import { Pool } from 'pg';
-import { ConfigService } from '@nestjs/config';
-import * as schema from '../persistence/index';
-import { Logger } from '@nestjs/common';
+import { drizzle } from "drizzle-orm/neon-serverless";
+import { ConfigService } from "@nestjs/config";
+import * as schema from "../persistence/index";
+import { Logger } from "@nestjs/common";
+import { neonConfig, Pool } from "@neondatabase/serverless";
+import WebSocket from "ws";
 
-export const DATABASE_CONNECTION = Symbol('DATABASE_CONNECTION');
+export const DATABASE_CONNECTION = Symbol("DATABASE_CONNECTION");
 const connectionProvider = {
   provide: DATABASE_CONNECTION,
   inject: [ConfigService],
-  useFactory: async (configService: ConfigService) => {
-    const logger = new Logger('DatabaseModule');
-    const databaseConfiguration = configService.get<string>('DBConfig.url');
+  useFactory: (configService: ConfigService) => {
+    const logger = new Logger("DatabaseModule");
+    const databaseConfiguration = configService.get<string>("DATABASE_URL");
 
-    const pool = new Pool({
-      connectionString: databaseConfiguration,
-      ssl: false,
-      allowExitOnIdle: true,
-      connectionTimeoutMillis: 72000, //
-    });
-    logger.log(`Database connection established:`);
-    return drizzle(pool, { schema }) as NodePgDatabase<typeof schema>;
+    // Enable WebSocket connections for Neon
+    neonConfig.webSocketConstructor = WebSocket;
+    // Create a pool for transactions support
+    const pool = new Pool({ connectionString: databaseConfiguration });
+    const db = drizzle(pool, { schema });
+
+    logger.log("Database connection established with transaction support");
+
+    return db;
   },
 };
 
