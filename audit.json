@@ -46,6 +46,11 @@
             "date": 1768564333769,
             "name": "./tmp/test-2026-01-16.log.0",
             "hash": "3eea1d4c0de35ba494c6ac55a05f4cbf"
+        },
+        {
+            "date": 1768566483933,
+            "name": "./tmp/test-2026-01-16.log.2026",
+            "hash": "d0b39b6862c0cbbc2e022a7841c9f3a9"
         }
     ]
 }
