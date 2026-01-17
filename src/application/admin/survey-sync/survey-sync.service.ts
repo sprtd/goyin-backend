@@ -390,6 +390,12 @@ export class SurveySyncService {
     };
   }
 
+  async findOne(id: number) {
+    const result = await this.db.select().from(users_survey).where(eq(users_survey.id, id)).limit(1);
+
+    return result[0] || null;
+  }
+
   async getMetrics() {
     // 1. Total count
     const totalCountResult = await this.db
@@ -406,32 +412,66 @@ export class SurveySyncService {
       .from(users_survey)
       .groupBy(users_survey.role);
 
-    // 3. Count by Agent (assuming 'Agent Name' in raw_data)
-    // We try to extract common agent keys: "Agent Name", "Enumerator Name"
-    // Note: This relies on the specific CSV structure.
-    const byAgent = await this.db
+    // 3. Count by Agent Phone Number with breakdown by role (driver/user)
+    // The agent phone is stored in raw_data as "Agent's Phone number " (with trailing space)
+    const byAgentRaw = await this.db
       .select({
-        agent: sql<string>`COALESCE(
-          ${users_survey.raw_data}->>'Agent Name',
-          ${users_survey.raw_data}->>'Enumerator Name',
-          ${users_survey.raw_data}->>'Interviewer Name',
+        agentPhone: sql<string>`COALESCE(
+          ${users_survey.raw_data}->>'Agent''s Phone number ',
+          ${users_survey.raw_data}->>'Agent''s Phone number',
+          ${users_survey.raw_data}->>'Agent Phone',
           'Unknown'
         )`,
+        role: users_survey.role,
         count: sql<number>`count(*)::int`,
       })
       .from(users_survey)
-      .groupBy(sql`COALESCE(
-          ${users_survey.raw_data}->>'Agent Name',
-          ${users_survey.raw_data}->>'Enumerator Name',
-          ${users_survey.raw_data}->>'Interviewer Name',
+      .groupBy(
+        sql`COALESCE(
+          ${users_survey.raw_data}->>'Agent''s Phone number ',
+          ${users_survey.raw_data}->>'Agent''s Phone number',
+          ${users_survey.raw_data}->>'Agent Phone',
           'Unknown'
-        )`)
+        )`,
+        users_survey.role
+      )
       .orderBy(sql`count(*)::int DESC`);
+
+    // Process the raw results to create a structured byAgent response
+    const agentMap = new Map<
+      string,
+      { agentPhone: string; totalCount: number; driverCount: number; userCount: number }
+    >();
+
+    for (const row of byAgentRaw) {
+      const phone = row.agentPhone || "Unknown";
+      if (!agentMap.has(phone)) {
+        agentMap.set(phone, {
+          agentPhone: phone,
+          totalCount: 0,
+          driverCount: 0,
+          userCount: 0,
+        });
+      }
+      const agent = agentMap.get(phone)!;
+      agent.totalCount += row.count;
+      if (row.role === "driver") {
+        agent.driverCount += row.count;
+      } else if (row.role === "user") {
+        agent.userCount += row.count;
+      }
+    }
+
+    // Convert to array and sort by totalCount descending
+    const byAgent = Array.from(agentMap.values()).sort(
+      (a, b) => b.totalCount - a.totalCount
+    );
 
     return {
       totalSurveys,
       byRole,
       byAgent,
+      agentCount: byAgent.filter((a) => a.agentPhone !== "Unknown").length,
     };
   }
 }

@@ -2,7 +2,9 @@ import {
   Controller,
   Get,
   Query,
+  Param,
   BadRequestException,
+  NotFoundException,
   Logger,
 } from "@nestjs/common";
 import { SurveySyncService } from "./survey-sync.service";
@@ -32,5 +34,14 @@ export class SurveyController {
   @Get("metrics")
   async getMetrics() {
     return await this.surveySyncService.getMetrics();
+  }
+
+  @Get(":id")
+  async findOne(@Param("id") id: string) {
+    const survey = await this.surveySyncService.findOne(+id);
+    if (!survey) {
+      throw new NotFoundException(`Survey with ID ${id} not found`);
+    }
+    return survey;
   }
 }
